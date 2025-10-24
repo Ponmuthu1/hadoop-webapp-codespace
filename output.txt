@@ -1,0 +1,6 @@
+"hadoop"	1
+"hello"	3
+"python"	1
+"world"	2
+"codespaces"	1
+"from"	2

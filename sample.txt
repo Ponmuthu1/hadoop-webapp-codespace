@@ -1,0 +1,3 @@
+Hello world
+Hello Hadoop from Codespaces
+Hello world from Python
