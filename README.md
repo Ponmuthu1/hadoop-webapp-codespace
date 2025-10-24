@@ -1,6 +1,6 @@
 Text Insights Dashboard – Hadoop + Flask
 
-Project Link: https://mysterious-spooky-tomb-jx9qxwqwqxjfpp5.github.dev/
+Project Link: https://mysterious-spooky-tomb-jx9qxwqwqxjfpp5-5000.app.github.dev/
 
 ---
 
@@ -42,7 +42,7 @@ Setup Instructions
    python app.py
 
 4. Open Codespaces port 5000  
-   Go to Live Demo: https://mysterious-spooky-tomb-jx9qxwqwqxjfpp5.github.dev/
+   Go to Live Demo: https://mysterious-spooky-tomb-jx9qxwqwqxjfpp5-5000.app.github.dev/
 
 5. Upload a .txt file to see insights.
 
